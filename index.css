@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(171, 223, 223);
+}
+#heading  {
+    display: flex;
+    justify-content: space-around;
+    text-decoration: underline;
+}
+#WD , #ty , #cc , #ht , #cs , #js{
+    padding: 25px;
+    text-decoration: underline;
+}
+.l1 , .l2 , .l3 , .l4 ,.l5 , .l6{
+    font-size:15px;
+    padding-left: 45px;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
