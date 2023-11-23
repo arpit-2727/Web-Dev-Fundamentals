@@ -2,12 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: rgb(171, 223, 223);
+    background-color: rgb(157, 211, 211);
 }
 #heading  {
     display: flex;
     justify-content: space-around;
     text-decoration: underline;
+    font-size: 50px;
+    padding-top: 20px;
 }
 #WD , #ty , #cc , #ht , #cs , #js{
     padding: 25px;
